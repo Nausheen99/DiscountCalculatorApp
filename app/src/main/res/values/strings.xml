@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">t1</string>
+    <string name="calculate">calculate</string>
+    <string name="discount_calculator">Discount calculator!</string>
+    <string name="_5000">5000</string>
+    <string name="total_amount">total amount</string>
+    <string name="_25">25</string>
+    <string name="discount">discount %</string>
+</resources>
